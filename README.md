@@ -1,2 +1,2 @@
-# pocket-doctor-aut-tests
-Projeto de testes automatizados para o aplicativo mobile Pocket Doctor.
+# appium-hybrid-aut-tests
+Projeto de testes automatizados para aplicativo mobile cross platform.
